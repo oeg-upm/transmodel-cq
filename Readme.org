@@ -1,0 +1,2 @@
+* Transmodel Competency Questions
+Better visualization for competency questions of the Transmodel Ontology: https://github.com/oeg-upm/transmodel-ontology
