@@ -1,2 +1,7 @@
 * Transmodel Competency Questions
 Better visualization for competency questions of the Transmodel Ontology: https://github.com/oeg-upm/transmodel-ontology
+
+- CQ by sheet (previous version)
+  https://docs.google.com/spreadsheets/d/1RJnAEjYrCBstSA8MpW0KjYEWc1sVYqVDhewSFTkI9q8/edit#gid=119825916
+- TM Ontology: https://github.com/oeg-upm/transmodel-ontology
+- CQ in HTML: https://oeg-upm.github.io/transmodel-cq/
